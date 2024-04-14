@@ -1,0 +1,114 @@
+{
+    "contrats": {
+      "score": [
+        {
+          "label": "0 - 26/100",
+          "value": 46,
+          "color": "#22AD5C"
+        },
+        {
+          "label": "27 - 50/100",
+          "value": 32,
+          "color": "#FBBF24"
+        },
+        {
+          "label": "51 - 75/100",
+          "value": 10,
+          "color": "#F23030"
+        }
+      ],
+      "service": [
+        {
+          "label": "Marketing",
+          "value": 10,
+          "color": "#3858f9"
+        },
+        {
+          "label": "R&D",
+          "value": 50,
+          "color": "#1c3fb7"
+        },
+        {
+          "label": "Logistique",
+          "value": 10,
+          "color": "#c3cdf6"
+        },
+        {
+          "label": "RH",
+          "value": 10,
+          "color": "#5475e5"
+        },
+        {
+          "label": "Juridique",
+          "value": 40,
+          "color": "#809aec"
+        },
+        {
+          "label": "Achats",
+          "value": 20,
+          "color": "#adbcf1"
+        },
+        {
+          "label": "Autres",
+          "value": 5,
+          "color": "#dfe4ea"
+        }
+      ]
+    },
+    "affaires": {
+      "score": [
+        {
+          "label": "0 - 26/100",
+          "value": 10,
+          "color": "#22AD5C"
+        },
+        {
+          "label": "27 - 50/100",
+          "value": 20,
+          "color": "#FBBF24"
+        },
+        {
+          "label": "51 - 75/100",
+          "value": 30,
+          "color": "#F23030"
+        }
+      ],
+      "service": [
+        {
+          "label": "Marketing",
+          "value": 10,
+          "color": "#3858f9"
+        },
+        {
+          "label": "R&D",
+          "value": 90,
+          "color": "#1c3fb7"
+        },
+        {
+          "label": "Logistique",
+          "value": 65,
+          "color": "#c3cdf6"
+        },
+        {
+          "label": "RH",
+          "value": 12,
+          "color": "#5475e5"
+        },
+        {
+          "label": "Juridique",
+          "value": 40,
+          "color": "#809aec"
+        },
+        {
+          "label": "Achats",
+          "value": 29,
+          "color": "#adbcf1"
+        },
+        {
+          "label": "Autres",
+          "value": 30,
+          "color": "#dfe4ea"
+        }
+      ]
+    }
+  }

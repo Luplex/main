@@ -1,0 +1,15 @@
+{
+    "contrats": {
+      "stats1": { "title": "Contrats", "subtitle": "Total", "value": "12", "percentage": 0.30, "barvalue": 70 },
+      "stats2": { "title": "Contrats", "subtitle": "Score > 50/100", "value": "2", "percentage": 0.43, "barvalue": 30 },
+      "stats3": { "title": "Contrats", "subtitle": "En cours", "value": "17", "percentage": 0.39, "barvalue": 60 },
+      "stats4":{ "title": "Contrats", "subtitle": "En attente de score", "value": "5", "percentage": 0.25, "barvalue": 80 }
+    },
+    "affaires": {
+      "stats1":{ "title": "Affaires", "subtitle": "Total", "value": "7", "percentage": 0.35, "barvalue": 75 },
+      "stats2":{ "title": "Affaires", "subtitle": "Score > 50/100", "value": "5", "percentage": 0.70, "barvalue": 90 },
+      "stats3":{ "title": "Affaires", "subtitle": "En cours", "value": "10", "percentage": 0.20, "barvalue": 12 },
+      "stats4":{ "title": "Affaires", "subtitle": "En attente de score", "value": "2", "percentage": 0.55, "barvalue": 23 }
+    }
+  }
+  

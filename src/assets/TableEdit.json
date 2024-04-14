@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "critere": "Lisibilité et qualité de la proposition",
+    "importance": "3",
+    "description": "Description explicative ici, elle peut être sur une ligne ou pas."
+  },
+  {
+    "id": "2",
+    "critere": "Temps de traitement",
+    "importance": "2",
+    "description": "Description explicative ici, elle peut être sur une ligne ou pas."
+  },
+  {
+    "id": "3",
+    "critere": "Qualité de la proposition",
+    "importance": "1",
+    "description": "Description explicative ici, elle peut être sur une ligne ou pas."
+  }
+]

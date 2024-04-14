@@ -1,0 +1,49 @@
+{
+
+  "contrats":[
+  {
+    "id": "1",
+    "critere": "Lisibilité et qualité de la proposition",
+    "importance": "3",
+    "note": "8",
+    "score": "50"
+  },
+  {
+    "id": "2",
+    "critere": "Temps de traitement",
+    "importance": "2",
+    "note": "8",
+    "score": "50"
+  },
+  {
+    "id": "3",
+    "critere": "Disponibilité",
+    "importance": "1",
+    "note": "8",
+    "score": "50"
+  }
+],
+"affaires":[
+  {
+    "id": "1",
+    "critere": "Justification des composants de la solutions préconnisée",
+    "importance": "3",
+    "note": "8",
+    "score": "50"
+  },
+  {
+    "id": "2",
+    "critere": "Lisibilité et qualité de la proposition",
+    "importance": "2",
+    "note": "8",
+    "score": "50"
+  },
+  {
+    "id": "3",
+    "critere": "Disponibilité",
+    "importance": "1",
+    "note": "8",
+    "score": "50"
+  }
+]
+}

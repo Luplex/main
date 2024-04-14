@@ -1,0 +1,96 @@
+{
+  "contrats": {
+    "table1": [
+      {
+        "id": "1",
+        "title": "Maintenance et hébergement",
+        "provider": "Logitec",
+        "score":-1,
+        "avatars": ["/src/assets/femme_1.png", "/src/assets/femme_2.png", "/src/assets/homme_1.png"],
+        "dateCreated": "01/01/2024"
+      },
+      {
+        "id": "2",
+        "title": "Fournitures équipements",
+        "provider": "Safran",
+        "score":-1,
+        "avatars": ["/src/assets/femme_2.png", "/src/assets/femme_1.png"],
+        "dateCreated": "01/01/2024"
+      },
+      {
+        "id": "3",
+        "title": "Collations",
+        "provider": "Paul",
+        "score":-1,
+        "avatars": ["/src/assets/femme_2.png", "/src/assets/femme_1.png", "/src/assets/homme_1.png"],
+        "dateCreated": "01/01/2024"
+      }
+    ],
+    "table2": [
+        {
+            "id": "4",
+            "title": "Titres restaurants",
+            "provider": "Swile",
+            "score": 75,
+            "avatars": ["/src/assets/homme_1.png"],
+            "dateCreated": "01/01/2024"
+          },
+          {
+            "id": "5",
+            "title": "Fournitures de bureau",
+            "provider": "Bureau vallée",
+            "score": 50,
+            "avatars": ["/src/assets/homme_1.png", "/src/assets/femme_1.png", "/src/assets/femme_2.png"],
+            "dateCreated": "02/02/2024"
+          }
+      
+    ]
+  },
+  "affaires": {
+    "table1": [
+        {
+            "id": "6",
+            "title": "Accompagnement juridique",
+            "provider": "Juridique Académie",
+            "score":-1,
+            "avatars": ["/src/assets/homme_1.png", "/src/assets/femme_1.png"],
+            "dateCreated": "01/01/2024"
+          },
+          {
+            "id": "7",
+            "title": "Cabinet comptable",
+            "provider": "Bold",
+            "score":-1,
+            "avatars": ["/src/assets/femme_1.png", "/src/assets/femme_2.png", "/src/assets/homme_1.png"],
+            "dateCreated": "01/01/2024"
+          },
+          {
+            "id": "8",
+            "title": "Agence web",
+            "provider": "Capsens",
+            "score":-1,
+            "avatars": ["/src/assets/homme_1.png"],
+            "dateCreated": "01/01/2024"
+          }
+      
+    ],
+    "table2": [
+      {
+        "id": "9",
+        "title": "Logiciel CRM",
+        "provider": "Saleforces",
+        "score": 75,
+        "avatars": ["/src/assets/femme_2.png", "/src/assets/femme_1.png", "/src/assets/homme_1.png"],
+        "dateCreated": "01/01/2024"
+      },
+      {
+        "id": "10",
+        "title": "Promoteur immobilier",
+        "provider": "Immo malin",
+        "score": 50,
+        "avatars": ["/src/assets/homme_1.png", "/src/assets/femme_1.png", "/src/assets/femme_2.png"],
+        "dateCreated": "02/02/2024"
+      }
+    ]
+  }
+}

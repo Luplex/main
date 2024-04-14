@@ -1,0 +1,43 @@
+{
+
+  "contrats":[
+  {
+    "id": "1",
+    "critere": "Lisibilité et qualité de la proposition",
+    "importance": "3",
+    "description": "Description explicative ici, elle peut être sur une ligne ou pas."
+  },
+  {
+    "id": "2",
+    "critere": "Temps de traitement",
+    "importance": "2",
+    "description": "Description explicative ici, elle peut être sur une ligne ou pas."
+  },
+  {
+    "id": "3",
+    "critere": "Disponibilité",
+    "importance": "1",
+    "description": "Description explicative ici, elle peut être sur une ligne ou pas."
+  }
+],
+"affaires":[
+  {
+    "id": "1",
+    "critere": "Justification des composants de la solutions préconnisée",
+    "importance": "3",
+    "description": "Description explicative ici, elle peut être sur une ligne ou pas."
+  },
+  {
+    "id": "2",
+    "critere": "Lisibilité et qualité de la proposition",
+    "importance": "2",
+    "description": "Description explicative ici, elle peut être ."
+  },
+  {
+    "id": "3",
+    "critere": "Disponibilité",
+    "importance": "1",
+    "description": "Description explicative ici, elle peut être sur une ligne ou pas."
+  }
+]
+}
